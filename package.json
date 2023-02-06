@@ -1,0 +1,26 @@
+{
+  "name": "eeeeeee",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000j\u0000s\u0000o\u0000n\u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bunyood/jsonServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bunyood/jsonServer/issues"
+  },
+  "homepage": "https://github.com/Bunyood/jsonServer#readme",
+  "devDependencies": {
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0",
+    "nodemon": "^2.0.20"
+  }
+}
